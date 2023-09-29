@@ -6,7 +6,7 @@ click==8.1.7
 Flask
 Flask-Migrate==4.0.5
 Flask-RESTful==0.3.10
-Flask-SQLAlchemy==3.1.1
+Flask-SQLAlchemy
 greenlet==2.0.2
 itsdangerous==2.1.2
 Jinja2==3.1.2
