@@ -19,3 +19,4 @@ SQLAlchemy==2.0.21
 SQLAlchemy-serializer==1.4.1
 typing-extensions==4.0.0
 Werkzeug==2.0.2  # Use a compatible version
+gunicorn==20.1.0
