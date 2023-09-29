@@ -19,3 +19,4 @@ SQLAlchemy==2.0.21
 SQLAlchemy-serializer==1.4.1
 typing_extensions==4.8.0
 Werkzeug==2.3.7
+typing_extensions==4.0.0
